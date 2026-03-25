@@ -6,7 +6,7 @@ Launched "Fitness Training NeoGym," an innovative web application that prioritiz
 ---
 
 ## Overview
-This project demonstrates the deployment of a highly available and scalable web application on AWS using services like EC2, Application Load Balancer (ALB), and Auto Scaling Group (ASG).
+This project demonstrates the deployment of a highly available and scalable web application on AWS using services like EC2,Deployed across multiple Availability Zones, Application Load Balancer (ALB), and Auto Scaling Group (ASG).
 
 The architecture ensures high availability, fault tolerance, and automatic scaling based on application demand.
 
